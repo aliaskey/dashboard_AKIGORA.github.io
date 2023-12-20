@@ -1,0 +1,390 @@
+_id,type,civility,howWeMet,createdAt,updatedAt,validatedEmail,data
+65703265c05b1d56a5d21b74,company,male,autre,06/11/2023,2023-12-06 09:21:42.362,VRAI,company
+6570273b843c536c576b98b7,company,male,autre,06/11/2023,2023-12-06 07:50:53.210,VRAI,company
+656c999b843c536c576b92b7,company,female,bouche à oreille,03/11/2023,2023-12-03 15:21:17.948,VRAI,company
+65679f206df3a711cd495148,company,female,bouche à oreille,29/10/2023,2023-11-29 20:34:14.508,VRAI,company
+65675f556df3a711cd4950df,company,female,bouche à oreille,29/10/2023,2023-11-30 14:16:18.806,VRAI,company
+6567044c6df3a711cd495028,company,female,linkedin,29/10/2023,2023-11-29 09:28:44.772,,company
+6565ad256df3a711cd494dcd,company,female,linkedin,28/10/2023,2023-11-28 09:08:06.858,VRAI,company
+6564bb866df3a711cd494c47,company,male,bouche à oreille,27/10/2023,2023-12-06 14:43:03.826,VRAI,company
+6564ba586df3a711cd494c42,company,male,linkedin,27/10/2023,2023-12-06 15:59:18.940,VRAI,company
+6564b5f46df3a711cd494c2e,company,male,bouche à oreille,27/10/2023,2023-12-06 15:34:51.745,VRAI,company
+6564b1d2ddcee07998d010d0,company,female,autre,27/10/2023,2023-11-27 15:50:41.232,VRAI,company
+655f89da4c24a02f8f55eb18,company,female,bouche à oreille,23/10/2023,2023-11-29 21:59:15.058,VRAI,company
+655dc5300972f25b9dfca8d9,company,female,autre,22/10/2023,2023-11-22 09:26:46.431,VRAI,company
+655cceb60972f25b9dfca78e,company,female,bouche à oreille,21/10/2023,2023-11-21 15:47:34.332,VRAI,company
+655cc9a40972f25b9dfca77f,company,male,linkedin,21/10/2023,2023-12-07 08:44:54.442,VRAI,company
+655cbc380972f25b9dfca74c,company,male,bouche à oreille,21/10/2023,2023-11-21 14:18:32.600,VRAI,company
+655c81e70972f25b9dfca68b,company,male,linkedin,21/10/2023,2023-11-21 10:18:25.897,VRAI,company
+655c67287c95b656962438da,company,male,recherche web,21/10/2023,2023-11-30 07:56:58.347,VRAI,company
+655b7467203e6a22c9ef0779,company,female,autre,20/10/2023,2023-11-20 15:02:27.970,VRAI,company
+65579b14203e6a22c9ef013b,company,male,bouche à oreille,17/10/2023,2023-12-04 07:55:01.031,VRAI,company
+6554dd20203e6a22c9eefdd7,company,female,autre,15/10/2023,2023-11-16 08:50:17.280,VRAI,company
+65549e7b203e6a22c9eefd8e,company,male,linkedin,15/10/2023,2023-11-23 13:39:35.565,VRAI,company
+655493c0203e6a22c9eefd84,company,male,recherche web,15/10/2023,2023-11-15 10:50:28.653,VRAI,company
+6552353c72811d2ae603e4a6,company,male,autre,13/10/2023,2023-11-29 16:53:39.528,VRAI,company
+654e4cc272811d2ae603de76,company,female,bouche à oreille,10/10/2023,2023-11-10 15:33:37.233,VRAI,company
+654a473572811d2ae603d404,company,male,autre,07/10/2023,2023-11-13 14:59:50.878,VRAI,company
+6549f18f72811d2ae603d25b,company,female,autre,07/10/2023,2023-11-09 13:34:30.336,VRAI,company
+653655f25b0ddd07d925d7bd,company,female,bouche à oreille,23/010/2023,2023-12-04 12:46:43.465,VRAI,company
+65362e3f5b0ddd07d925d72e,company,male,autre,23/010/2023,2023-10-23 08:27:30.626,VRAI,company
+65343f385b0ddd07d925d4b8,company,female,bouche à oreille,21/010/2023,2023-10-31 14:32:43.755,VRAI,company
+6530ebba5b0ddd07d925cee4,company,female,bouche à oreille,19/010/2023,2023-10-19 10:05:00.217,VRAI,company
+652e853d5b0ddd07d925cacb,company,female,bouche à oreille,17/010/2023,2023-11-21 11:05:32.339,VRAI,company
+652e598b5b0ddd07d925ca49,company,male,autre,17/010/2023,2023-10-17 09:59:00.174,VRAI,company
+652846955b0ddd07d925bde4,company,female,bouche à oreille,12/010/2023,2023-10-12 19:18:45.013,VRAI,company
+6524155e5b0ddd07d925b1db,company,female,bouche à oreille,09/010/2023,2023-10-18 08:43:55.910,VRAI,company
+651fe56bd2ebbd6640a83b68,company,female,recherche web,06/010/2023,2023-10-06 12:30:49.595,VRAI,company
+651d7416d2ebbd6640a8331a,company,male,bouche à oreille,04/010/2023,2023-10-04 15:38:07.733,VRAI,company
+651af61dd2ebbd6640a8296a,company,female,entreprise partenaire,02/010/2023,2023-10-02 17:01:09.689,VRAI,company
+651705c3d2ebbd6640a81f7c,company,female,bouche à oreille,29/09/2023,2023-09-29 17:16:39.338,VRAI,company
+6516d584d2ebbd6640a81df6,company,male,linkedin,29/09/2023,2023-09-29 14:00:46.089,VRAI,company
+6516bf02950b955d42c72acd,company,male,autre,29/09/2023,2023-09-29 12:13:02.380,VRAI,company
+6516bc2a950b955d42c72acb,company,female,association partenaire,29/09/2023,2023-10-10 06:54:10.159,VRAI,company
+64f9a02818cd730cf4f4cdd5,company,female,autre,07/09/2023,2023-09-11 09:46:33.750,VRAI,company
+64f71b7918cd730cf4f4c7ae,company,female,entreprise partenaire,05/09/2023,2023-10-13 08:09:55.073,VRAI,company
+64f6ec6c3473cc61a0538509,company,female,bouche à oreille,05/09/2023,2023-11-30 11:04:35.535,VRAI,company
+64f6d6423473cc61a053847b,company,female,autre,05/09/2023,2023-11-07 08:18:30.685,VRAI,company
+64f5ebef56981a517a4eb6dc,company,male,bouche à oreille,04/09/2023,2023-11-08 15:23:28.054,VRAI,company
+64f1b99188afda3cddd6f980,company,female,bouche à oreille,01/09/2023,2023-09-04 20:22:21.300,VRAI,company
+64f1b33a88afda3cddd6f923,company,female,entreprise partenaire,01/09/2023,2023-11-20 09:05:34.134,VRAI,company
+64f184be88afda3cddd6f852,company,male,bouche à oreille,01/09/2023,2023-09-01 06:29:18.442,VRAI,company
+64f0edd388afda3cddd6f7b9,company,female,autre,31/08/2023,2023-09-13 07:43:03.822,VRAI,company
+64f0961388afda3cddd6f746,company,male,bouche à oreille,31/08/2023,2023-09-06 10:49:07.170,VRAI,company
+64f0619e88afda3cddd6f6a6,company,female,bouche à oreille,31/08/2023,2023-10-10 11:57:12.986,VRAI,company
+64ef672788afda3cddd6f4a0,company,female,autre,30/08/2023,2023-08-31 08:17:43.019,VRAI,company
+64ee08ac88afda3cddd6f224,company,female,association partenaire,29/08/2023,2023-09-25 14:17:46.173,VRAI,company
+64ecfbc7364aa0079116ae7f,company,male,bouche à oreille,28/08/2023,2023-08-28 19:56:42.269,VRAI,company
+64ecaad4364aa0079116acf4,company,female,entreprise partenaire,28/08/2023,2023-08-31 09:51:04.614,VRAI,company
+64e70cac39328140f591f123,company,female,entreprise partenaire,24/08/2023,2023-08-24 07:57:35.357,VRAI,company
+64e3293d911dbb2585e1140e,company,female,bouche à oreille,21/08/2023,2023-08-30 07:43:58.867,VRAI,company
+64d0a99897d6b324b741c38f,company,male,autre,07/08/2023,2023-08-29 12:23:25.813,VRAI,company
+64cb6d5c643f6b152bdaca5a,company,male,autre,03/08/2023,2023-08-04 08:26:32.115,VRAI,company
+64ca5e0b643f6b152bdac93e,company,female,bouche à oreille,02/08/2023,2023-08-02 13:45:47.804,,company
+64ca556a643f6b152bdac92f,company,male,bouche à oreille,02/08/2023,2023-08-03 13:19:20.127,VRAI,company
+64c2453a02ad7455c86b99aa,company,male,bouche à oreille,27/07/2023,2023-11-20 10:08:38.668,VRAI,company
+64c0ee5902ad7455c86b9790,company,female,autre,26/07/2023,2023-07-26 10:02:20.252,VRAI,company
+64bfee0b02ad7455c86b936c,company,male,entreprise partenaire,25/07/2023,2023-07-25 15:47:46.172,VRAI,company
+64be6eac044a1149b7aba2b0,company,female,bouche à oreille,24/07/2023,2023-07-24 12:29:32.066,VRAI,company
+64b937fb044a1149b7ab9a86,company,male,bouche à oreille,20/07/2023,2023-09-01 07:50:08.071,VRAI,company
+64b7e59184e22e017f494548,company,male,linkedin,19/07/2023,2023-07-19 13:30:57.048,VRAI,company
+64b532f35b32d14c2c8da90f,company,female,bouche à oreille,17/07/2023,2023-07-17 12:24:19.612,VRAI,company
+64aedc22cb34de02d72d4096,company,female,autre,12/07/2023,2023-09-28 13:35:56.177,VRAI,company
+64aea91acb34de02d72d4019,company,female,autre,12/07/2023,2023-11-29 12:18:55.024,VRAI,company
+64ae7e0bcb34de02d72d3fae,company,female,bouche à oreille,12/07/2023,2023-08-17 12:14:38.305,VRAI,company
+64a5339fe0843b7be97f5930,company,male,autre,05/07/2023,2023-07-05 09:10:55.917,VRAI,company
+64a2c768e0843b7be97f5407,company,female,,03/07/2023,2023-07-03 13:16:36.037,VRAI,company
+649ef3c8e0843b7be97f4e50,company,male,entreprise partenaire,30/06/2023,2023-12-06 14:01:48.228,VRAI,company
+649e8e91e0843b7be97f4d04,company,male,autre,30/06/2023,2023-06-30 08:18:34.841,VRAI,company
+649a9c79e0843b7be97f44a8,company,female,autre,27/06/2023,2023-07-12 10:16:56.242,VRAI,company
+6499b3ace0843b7be97f429f,company,male,bouche à oreille,26/06/2023,2023-10-03 16:39:54.343,VRAI,company
+64943869be132659d9fe28a5,company,male,bouche à oreille,22/06/2023,2023-06-22 12:02:49.159,VRAI,company
+6492a905be132659d9fe24df,company,female,autre,21/06/2023,2023-06-28 08:07:39.112,VRAI,company
+649011bcbe132659d9fe1f38,company,female,autre,19/06/2023,2023-06-19 08:28:44.856,VRAI,company
+648c6187bf50bf6e8c8e4ae6,company,female,bouche à oreille,16/06/2023,2023-06-16 13:21:10.229,VRAI,company
+6489691316b46110c144d1e3,company,female,autre,14/06/2023,2023-07-10 09:31:51.570,VRAI,company
+6488749416b46110c144d024,company,male,recherche web,13/06/2023,2023-11-07 10:17:19.207,VRAI,company
+64883bd916b46110c144cf02,company,female,autre,13/06/2023,2023-06-29 12:03:41.359,VRAI,company
+64832fbc0f428d0ac2be06ee,company,male,autre,09/06/2023,2023-06-09 13:57:16.383,VRAI,company
+6481d9a50a45f03a65e00fb4,company,female,autre,08/06/2023,2023-06-08 13:41:13.958,VRAI,company
+6481c45c0a45f03a65e00f89,company,male,autre,08/06/2023,2023-06-08 12:06:52.490,,company
+6481ade00a45f03a65e00f3a,company,male,bouche à oreille,08/06/2023,2023-06-13 07:20:15.750,VRAI,company
+647f635b0a45f03a65e009a5,company,male,autre,06/06/2023,2023-08-02 09:07:30.072,VRAI,company
+647f085c0a45f03a65e008c1,company,female,entreprise partenaire,06/06/2023,2023-11-14 13:38:52.305,VRAI,company
+647ed53e0a45f03a65e0077f,company,female,autre,06/06/2023,2023-06-07 15:30:31.667,VRAI,company
+646f7962de81f4250f63570a,company,female,autre,25/05/2023,2023-05-27 16:06:58.559,VRAI,company
+646f62b3de81f4250f6356de,company,female,autre,25/05/2023,2023-06-14 07:06:06.205,VRAI,company
+64676cd47818b449e7acde96,company,female,bouche à oreille,19/05/2023,2023-05-19 12:36:26.580,VRAI,company
+645e48f8f1f6ab046a9b5b03,company,male,autre,12/05/2023,2023-05-12 14:11:03.912,VRAI,company
+645459558eb450085c332993,company,female,recherche web,05/05/2023,2023-05-05 01:23:04.137,VRAI,company
+6454547f8eb450085c33298e,company,female,bouche à oreille,05/05/2023,2023-05-05 01:01:33.530,VRAI,company
+645357a68eb450085c332893,company,male,autre,04/05/2023,2023-10-03 12:21:09.118,VRAI,company
+6452fb538eb450085c33283a,company,female,bouche à oreille,04/05/2023,2023-05-04 00:24:51.119,VRAI,company
+644a87308eb450085c331d61,company,female,bouche à oreille,27/04/2023,2023-10-16 14:14:55.724,VRAI,company
+644a41ce8eb450085c331bf7,company,male,autre,27/04/2023,2023-12-01 08:26:56.671,VRAI,company
+643eb41435958379464a1d8d,company,male,autre,18/04/2023,2023-06-27 11:15:29.668,VRAI,company
+6437b7358d41ed32e87705ec,company,female,bouche à oreille,13/04/2023,2023-06-22 12:00:00.300,VRAI,company
+6433d61395cfbe13649d4023,company,male,parrainage,10/04/2023,2023-06-07 12:23:23.912,VRAI,company
+642ebf8895cfbe13649d3b62,company,female,,06/04/2023,2023-05-22 06:55:18.817,VRAI,company
+642be7e5fe615a08c22b68bb,company,female,autre,04/04/2023,2023-05-30 15:06:40.857,VRAI,company
+64271af3f0cd0f064c1f045f,company,male,bouche à oreille,31/03/2023,2023-03-31 17:40:03.392,VRAI,company
+6426984918aa0344da152b72,company,female,autre,31/03/2023,2023-04-10 13:46:47.553,VRAI,company
+6425b81a18aa0344da152ae5,company,male,bouche à oreille,30/03/2023,2023-03-30 16:26:02.279,VRAI,company
+6425b49918aa0344da152ad9,company,female,recherche web,30/03/2023,2023-03-30 16:11:05.925,VRAI,company
+6425b41718aa0344da152ad6,company,female,bouche à oreille,30/03/2023,2023-03-30 16:08:55.624,VRAI,company
+6425b36c18aa0344da152ad4,company,female,bouche à oreille,30/03/2023,2023-03-30 16:06:04.771,VRAI,company
+6425b29f18aa0344da152ad1,company,female,bouche à oreille,30/03/2023,2023-03-30 16:02:38.968,VRAI,company
+642562aa18aa0344da1529e3,company,male,autre,30/03/2023,2023-03-30 10:23:49.122,VRAI,company
+6423e0ce18aa0344da15269f,company,male,bouche à oreille,29/03/2023,2023-06-06 06:54:57.468,VRAI,company
+6421d09418aa0344da1523a2,company,male,bouche à oreille,27/03/2023,2023-03-27 17:21:24.725,VRAI,company
+642194b4d09d560320d2b5cb,company,female,bouche à oreille,27/03/2023,2023-03-27 13:07:40.001,VRAI,company
+64216cc7d09d560320d2aff6,company,female,bouche à oreille,27/03/2023,2023-03-27 10:16:08.027,VRAI,company
+642149afd09d560320d2afb4,company,male,recherche web,27/03/2023,2023-03-27 13:32:33.193,VRAI,company
+6419a616d09d560320d2a6c7,company,female,autre,21/03/2023,2023-03-21 13:21:12.170,VRAI,company
+641872afb7d2e67417912d20,company,female,autre,20/03/2023,2023-03-20 14:56:04.211,VRAI,company
+64144f0543068357ef84281a,company,female,autre,17/03/2023,2023-03-17 11:29:09.490,VRAI,company
+64144ed843068357ef842817,company,male,bouche à oreille,17/03/2023,2023-03-24 10:00:24.967,VRAI,company
+64130db443068357ef8425c1,company,male,bouche à oreille,16/03/2023,2023-10-03 08:33:15.842,VRAI,company
+6409bc6cad121b1000e29361,company,female,autre,09/03/2023,2023-03-09 11:02:23.209,VRAI,company
+6409b0b7ad121b1000e2932f,company,male,autre,09/03/2023,2023-03-09 10:14:27.303,VRAI,company
+6409ad85ad121b1000e29325,company,female,autre,09/03/2023,2023-12-07 08:45:46.199,VRAI,company
+6408970bad121b1000e2911d,company,male,recherche web,08/03/2023,2023-03-08 14:09:15.756,VRAI,company
+6405d6f9ad121b1000e28c3d,company,female,bouche à oreille,06/03/2023,2023-03-06 12:10:07.907,VRAI,company
+6400a85e410cf44bb0d4bf82,company,male,autre,02/03/2023,2023-03-10 13:54:40.633,VRAI,company
+63ff7d96410cf44bb0d4be34,company,female,bouche à oreille,01/03/2023,2023-03-01 16:30:14.107,VRAI,company
+63fcc2669409a015887023fb,company,male,entreprise partenaire,27/02/2023,2023-02-27 14:55:26.385,VRAI,company
+63f49c20be74f3780363bf2f,company,female,entreprise partenaire,21/02/2023,2023-02-21 10:28:12.853,VRAI,company
+63f343c4be74f3780363bbcd,company,male,entreprise partenaire,20/02/2023,2023-06-02 13:48:26.687,VRAI,company
+63ed082fc21e125db591cb7b,company,male,autre,15/02/2023,2023-06-08 10:04:43.496,VRAI,company
+63e960c779991a5c33ff6d7f,company,female,,12/02/2023,2023-02-12 21:57:27.895,VRAI,company
+63e380f179991a5c33ff62a3,company,male,bouche à oreille,08/02/2023,2023-02-08 11:03:40.540,VRAI,company
+63e12b000836560f18738421,company,female,,06/02/2023,2023-11-16 09:03:41.493,VRAI,company
+63dce20c9db7350d41863d42,company,female,bouche à oreille,03/02/2023,2023-02-20 09:40:33.314,VRAI,company
+63da213ebecf325848a4a126,company,female,bouche à oreille,01/02/2023,2023-09-19 13:30:18.846,VRAI,company
+63d8fb41becf325848a49f1f,company,female,autre,31/01/2023,2023-02-07 13:07:24.531,VRAI,company
+63d8e686becf325848a49ecb,company,female,publicité,31/01/2023,2023-06-22 09:48:51.656,VRAI,company
+63d7e42e4709d3083585b9b9,company,male,autre,30/01/2023,2023-08-29 14:37:29.730,VRAI,company
+63d38814b4ef3f4d9d68f4e6,company,male,bouche à oreille,27/01/2023,2023-01-27 08:19:24.720,VRAI,company
+63d25fe188160d0bd8626451,company,male,autre,26/01/2023,2023-11-21 14:03:36.995,VRAI,company
+63cfeb213d805d489fa38c98,company,female,bouche à oreille,24/01/2023,2023-01-24 14:39:31.412,VRAI,company
+63c973d2e4ad45260849a319,company,male,autre,19/01/2023,2023-03-06 14:25:05.661,VRAI,company
+63c9031ee4ad45260849a238,company,female,autre,19/01/2023,2023-11-10 10:32:46.181,VRAI,company
+63bbd53be4ad452608499149,company,female,bouche à oreille,09/01/2023,2023-01-09 08:56:36.383,VRAI,company
+63b3f008783ece5a0866a0c1,company,male,autre,03/01/2023,2023-09-27 12:04:25.872,VRAI,company
+63a176bd783ece5a08668b1c,company,male,parrainage,20/11/2022,2023-11-28 14:40:05.361,VRAI,company
+639a003067f15f7b71c87180,company,female,entreprise partenaire,14/11/2022,2022-12-14 17:00:49.400,VRAI,company
+63989c073ef4140b25984a27,company,female,bouche à oreille,13/11/2022,2023-01-06 15:49:49.489,VRAI,company
+639895353ef4140b25984a1e,company,female,bouche à oreille,13/11/2022,2022-12-13 15:11:39.196,VRAI,company
+63974a5dc2ac7675f05052d8,company,male,autre,12/11/2022,2023-01-24 14:40:14.877,VRAI,company
+639346a8c2ac7675f0504ca0,company,male,autre,09/11/2022,2022-12-09 14:41:46.254,VRAI,company
+63934121c2ac7675f0504c8b,company,female,autre,09/11/2022,2023-03-10 09:34:41.564,VRAI,company
+63906ca366eff2145f4f2e83,company,male,bouche à oreille,07/11/2022,2023-09-19 10:30:35.632,VRAI,company
+638e46c966eff2145f4f2a89,company,female,bouche à oreille,05/11/2022,2022-12-05 19:32:42.357,VRAI,company
+6389fe3b0f14570b3a246b55,company,male,bouche à oreille,02/11/2022,2022-12-02 13:51:35.348,VRAI,company
+6389c299d10d072727c11bad,company,male,bouche à oreille,02/11/2022,2023-10-11 11:00:12.105,VRAI,company
+6389258fd10d072727c11b01,company,male,autre,01/11/2022,2022-12-01 22:07:11.362,VRAI,company
+63885658d10d072727c11927,company,female,bouche à oreille,01/11/2022,2022-12-01 07:24:41.190,VRAI,company
+6387c85dd10d072727c11840,company,female,entreprise partenaire,30/10/2022,2023-07-28 09:49:34.047,VRAI,company
+6384e08be6157d5bdc427224,company,male,bouche à oreille,28/10/2022,2023-01-18 12:45:44.325,VRAI,company
+6384acd9e6157d5bdc4271bf,company,female,bouche à oreille,28/10/2022,2023-05-04 08:02:54.348,VRAI,company
+63847975983abd240e842af9,company,female,autre,28/10/2022,2022-11-28 09:03:49.024,VRAI,company
+6380bf78983abd240e842422,company,male,bouche à oreille,25/10/2022,2023-02-15 22:29:25.252,VRAI,company
+637d0b6e5611a441750a5a6d,company,male,bouche à oreille,22/10/2022,2022-11-28 16:49:49.401,VRAI,company
+637c819a5611a441750a596a,company,female,bouche à oreille,22/10/2022,2022-11-22 08:06:18.769,VRAI,company
+637b7b6f5611a441750a5867,company,male,bouche à oreille,21/10/2022,2023-08-11 13:40:51.055,VRAI,company
+637a32775611a441750a56e3,company,female,recherche web,20/10/2022,2022-11-20 13:58:15.242,VRAI,company
+636e0ee6231df95a4ccc0512,company,male,recherche web,11/10/2022,2022-11-11 09:00:21.086,VRAI,company
+636d0a1f231df95a4ccc042b,company,male,bouche à oreille,10/10/2022,2022-11-18 13:00:33.739,VRAI,company
+636d0552231df95a4ccc0405,company,male,bouche à oreille,10/10/2022,2023-09-12 08:13:54.236,VRAI,company
+636d04f6231df95a4ccc0402,company,female,bouche à oreille,10/10/2022,2022-11-10 14:13:52.847,VRAI,company
+636b8829231df95a4ccc01f5,company,female,autre,09/10/2022,2023-09-18 12:41:21.188,VRAI,company
+636b87af231df95a4ccc01f1,company,female,autre,09/10/2022,2023-05-16 13:27:07.318,VRAI,company
+6356d57c0fd435728656c8c6,company,male,autre,24/010/2022,2022-10-24 18:12:12.865,VRAI,company
+63568c420fd435728656c85c,company,female,bouche à oreille,24/010/2022,2022-10-24 13:03:42.205,VRAI,company
+635647920fd435728656c7bd,company,male,bouche à oreille,24/010/2022,2022-10-24 08:07:45.782,VRAI,company
+634fe4e80fd435728656c216,company,male,recherche web,19/010/2022,2022-10-19 11:52:08.007,VRAI,company
+6347ccab0fd435728656b9ca,company,female,autre,13/010/2022,2022-10-13 08:30:35.393,VRAI,company
+633ff4d1bcc18741abdf004e,company,female,bouche à oreille,07/010/2022,2023-02-28 14:16:56.171,VRAI,company
+63359555a473c11f43214084,company,female,bouche à oreille,29/09/2022,2023-01-05 09:04:05.388,VRAI,company
+6329698522d1f03a8a691b23,company,female,bouche à oreille,20/09/2022,2023-07-24 14:12:25.389,VRAI,company
+632350bd3acb9b4d5764ebe7,company,male,autre,15/09/2022,2023-05-16 21:16:31.069,VRAI,company
+6322f65d3acb9b4d5764eb84,company,female,autre,15/09/2022,2022-09-15 09:54:37.389,VRAI,company
+6321aead3acb9b4d5764ea02,company,male,bouche à oreille,14/09/2022,2022-09-14 10:37:48.268,VRAI,company
+631f413054f3b47232b1fe85,company,male,entreprise partenaire,12/09/2022,2022-09-14 06:06:32.551,VRAI,company
+6317295d6977227acbbbebc3,company,female,autre,06/09/2022,2022-09-07 14:53:35.928,VRAI,company
+630e26801acadb22d66bd5b6,company,female,bouche à oreille,30/08/2022,2022-08-30 15:07:43.820,VRAI,company
+630cc7d347b68d445cd21c56,company,female,recherche web,29/08/2022,2022-08-29 14:06:11.071,VRAI,company
+630880b847b68d445cd21782,company,female,autre,26/08/2022,2023-01-03 13:30:10.019,VRAI,company
+6306238247b68d445cd2154b,company,female,bouche à oreille,24/08/2022,2023-01-02 09:38:17.906,VRAI,company
+62fba39347b68d445cd20c58,company,female,bouche à oreille,16/08/2022,2023-01-09 15:38:29.221,VRAI,company
+62e12ef0f5e6794d89e1e6a8,company,female,association partenaire,27/07/2022,2023-03-27 15:05:38.830,VRAI,company
+62dfe255f5e6794d89e1e50b,company,female,,26/07/2022,2023-10-24 06:39:28.464,VRAI,company
+62d9b481f5e6794d89e1de21,company,female,entreprise partenaire,21/07/2022,2022-07-21 20:20:53.357,VRAI,company
+62d9662ff5e6794d89e1ddd9,company,male,entreprise partenaire,21/07/2022,2023-12-04 15:42:17.937,VRAI,company
+62d94e30f5e6794d89e1dd7d,company,female,bouche à oreille,21/07/2022,2022-07-27 14:22:47.625,VRAI,company
+62d659d7f5e6794d89e1da47,company,female,autre,19/07/2022,2022-11-03 08:41:39.872,VRAI,company
+62cd9e0ec43a1c07852b7266,company,female,bouche à oreille,12/07/2022,2022-08-23 15:38:07.739,VRAI,company
+62cc4f32c43a1c07852b6f98,company,male,publicité,11/07/2022,2022-10-19 10:24:54.085,VRAI,company
+62cc0bf3c43a1c07852b6f1c,company,male,publicité,11/07/2022,2022-07-11 11:44:50.228,VRAI,company
+62c57bc103f9d052cb4400f3,company,female,bouche à oreille,06/07/2022,2023-04-27 15:34:57.912,VRAI,company
+62c451e903f9d052cb43fff0,company,male,autre,05/07/2022,2023-12-01 09:36:13.804,VRAI,company
+62c2b63d03f9d052cb43fe18,company,female,association partenaire,04/07/2022,2022-07-04 09:43:25.414,VRAI,company
+62bf021ab92b4e1a8ec37107,company,male,publicité,01/07/2022,2022-07-01 14:19:32.307,VRAI,company
+62bd8c96b92b4e1a8ec36eef,company,female,bouche à oreille,30/06/2022,2023-10-09 14:03:32.360,VRAI,company
+62bd759db92b4e1a8ec36ee3,company,male,bouche à oreille,30/06/2022,2022-06-30 11:56:54.545,VRAI,company
+62bc6969b92b4e1a8ec36e14,company,female,bouche à oreille,29/06/2022,2023-07-17 13:03:28.469,VRAI,company
+62b0729994bf604e68e19fc3,company,female,bouche à oreille,20/06/2022,2023-03-13 11:12:14.345,VRAI,company
+62a848fa0eef6a518ff0cc6a,company,female,bouche à oreille,14/06/2022,2022-07-20 14:21:36.485,VRAI,company
+62a095b9d57a952ac7f6d6b3,company,female,recherche web,08/06/2022,2022-06-08 12:29:06.167,VRAI,company
+62988275d57a952ac7f6cf0c,company,female,association partenaire,02/06/2022,2022-10-10 20:15:05.685,VRAI,company
+6295f8541fbb047964271f0f,company,male,autre,31/05/2022,2022-06-01 11:39:26.714,VRAI,company
+6295dca21fbb047964271eea,company,female,autre,31/05/2022,2023-11-29 09:55:21.430,VRAI,company
+628f9a221fbb0479642719e9,company,male,recherche web,26/05/2022,2022-05-26 15:17:54.366,VRAI,company
+628ce28c1fbb047964271842,company,female,autre,24/05/2022,2022-05-24 13:50:04.739,VRAI,company
+628cd33a8cd3654f4645a0a4,company,male,bouche à oreille,24/05/2022,2022-05-24 13:20:01.803,VRAI,company
+627a21fc8b607267583f722c,company,female,autre,10/05/2022,2022-07-11 09:47:47.692,VRAI,company
+6272719692c2ec2a7d267b16,company,female,publicité,04/05/2022,2022-05-24 12:40:21.956,VRAI,company
+6271778692c2ec2a7d267a64,company,male,autre,03/05/2022,2023-11-25 15:22:35.008,VRAI,company
+626bf65e92c2ec2a7d2676cd,company,male,bouche à oreille,29/04/2022,2022-07-11 15:30:02.376,VRAI,company
+626808c6e78e047aff451415,company,female,bouche à oreille,26/04/2022,2022-05-24 12:40:21.926,VRAI,company
+625938bca6a5e0544be60ca2,company,female,autre,15/04/2022,2023-11-06 07:13:45.811,VRAI,company
+624ffc81b8f602159939792c,company,male,bouche à oreille,08/04/2022,2023-06-20 12:42:10.051,VRAI,company
+624af22e35e1f40873f821cc,company,male,autre,04/04/2022,2022-05-24 12:40:21.787,VRAI,company
+6241e702c60bd00898a3845d,company,female,autre,28/03/2022,2022-05-24 12:40:21.739,VRAI,company
+623d87ff8135b2295c14001b,company,male,,25/03/2022,2023-03-07 16:05:47.046,VRAI,company
+62388f4895809f08f186715d,company,female,autre,21/03/2022,2022-05-24 12:40:21.696,VRAI,company
+6234a5469bdf0c49877f89b5,company,male,bouche à oreille,18/03/2022,2022-05-24 12:40:21.677,VRAI,company
+62335c6e9bdf0c49877f88d5,company,female,autre,17/03/2022,2022-05-24 12:40:21.659,VRAI,company
+6230a7789bdf0c49877f8654,company,female,autre,15/03/2022,2023-10-25 13:27:22.678,VRAI,company
+6220e880240f4e2730b14c6e,company,male,bouche à oreille,03/03/2022,2022-05-24 12:40:21.578,VRAI,company
+621f7919240f4e2730b14b7e,company,male,autre,02/03/2022,2022-05-24 12:40:21.572,VRAI,company
+620e4f9e40cc3e4bf30441c0,company,female,autre,17/02/2022,2022-05-24 12:40:21.514,VRAI,company
+61fa88f795e32c4827f99ec4,company,female,autre,02/02/2022,2022-05-24 12:40:21.473,,company
+61fa87c095e32c4827f99ebc,company,female,entreprise partenaire,02/02/2022,2022-05-24 12:40:21.465,VRAI,company
+61fa87be95e32c4827f99eba,company,female,publicité,02/02/2022,2022-05-24 12:40:21.461,VRAI,company
+61f9723995e32c4827f99e30,company,male,autre,01/02/2022,2022-05-24 12:40:21.458,VRAI,company
+61f7f94d95e32c4827f99d2c,company,female,autre,31/01/2022,2023-07-17 07:14:01.819,VRAI,company
+61f40a2395e32c4827f99a85,company,female,,28/01/2022,2022-05-24 12:40:21.423,VRAI,company
+61ea690641979a0867314035,company,female,bouche à oreille,21/01/2022,2022-08-18 06:04:46.577,VRAI,company
+61e6cb8441979a0867313d90,company,female,bouche à oreille,18/01/2022,2023-08-23 15:25:57.928,VRAI,company
+61dff339f18aaa130b6cd03a,company,male,association partenaire,13/01/2022,2022-05-24 12:40:21.291,VRAI,company
+61d54c1fca71a24b561b8329,company,male,autre,05/01/2022,2023-11-20 08:51:44.020,VRAI,company
+61d34a21ca71a24b561b7d85,company,female,entreprise partenaire,03/01/2022,2022-05-24 12:40:21.248,VRAI,company
+61cae1f5ca71a24b561b7850,company,female,entreprise partenaire,28/11/2021,2022-05-24 12:40:21.242,VRAI,company
+61c44a76ca71a24b561b74f3,company,male,bouche à oreille,23/11/2021,2022-05-24 12:40:21.227,VRAI,company
+61c1b0df64217e083ca41b60,company,female,,21/11/2021,2022-05-24 12:40:21.213,VRAI,company
+61b8470f2314dc0c6f4adf53,company,male,bouche à oreille,14/11/2021,2023-12-01 10:11:28.359,VRAI,company
+61b2300e2314dc0c6f4adbd4,company,male,bouche à oreille,09/11/2021,2022-05-24 12:40:21.174,VRAI,company
+61aa1c5b2314dc0c6f4ad5a8,company,male,bouche à oreille,03/11/2021,2022-05-24 12:40:21.152,VRAI,company
+61a8c4422314dc0c6f4ad48a,company,female,entreprise partenaire,02/11/2021,2022-05-24 12:40:21.143,VRAI,company
+61a8b0802314dc0c6f4ad46e,company,male,autre,02/11/2021,2022-05-24 12:40:21.139,VRAI,company
+61a780612314dc0c6f4ad376,company,female,bouche à oreille,01/11/2021,2023-03-03 09:20:23.607,VRAI,company
+619ba870350329481522a285,company,female,bouche à oreille,22/10/2021,2022-05-24 12:40:21.098,VRAI,company
+618acb933b46e1617ab35d93,company,male,recherche web,09/10/2021,2022-05-24 12:40:21.058,VRAI,company
+618a2bdd3b46e1617ab35ca4,company,male,autre,09/10/2021,2023-09-29 10:26:37.716,VRAI,company
+6183d7418ffce508636e0be0,company,male,entreprise partenaire,04/10/2021,2022-11-30 08:08:18.110,VRAI,company
+6183b35a8ffce508636e0b7c,company,female,entreprise partenaire,04/10/2021,2022-05-24 12:40:21.029,VRAI,company
+618248e68ffce508636e0985,company,female,bouche à oreille,03/10/2021,2023-09-15 11:58:23.469,VRAI,company
+6181329c8ffce508636e08d0,company,female,autre,02/10/2021,2022-05-24 12:40:21.018,VRAI,company
+61798b78db8a080f37bd15de,company,male,autre,27/010/2021,2022-05-24 12:40:20.998,VRAI,company
+6173d299db8a080f37bd11ca,company,female,bouche à oreille,23/010/2021,2022-09-16 09:34:44.944,VRAI,company
+61702d7bdb8a080f37bd0ea8,company,female,autre,20/010/2021,2022-05-24 12:40:20.973,VRAI,company
+616e7b1fdb8a080f37bd0c23,company,female,autre,19/010/2021,2023-08-22 08:32:13.894,VRAI,company
+616d2619db8a080f37bd0b24,company,female,entreprise partenaire,18/010/2021,2022-05-24 12:40:20.956,VRAI,company
+616acfb2db8a080f37bd0a64,company,male,bouche à oreille,16/010/2021,2022-05-24 12:40:20.951,VRAI,company
+616993ffdb8a080f37bd09e3,company,female,bouche à oreille,15/010/2021,2022-05-24 12:40:20.946,VRAI,company
+61698f69db8a080f37bd09de,company,female,bouche à oreille,15/010/2021,2022-05-24 12:40:20.941,VRAI,company
+615447bc24bf9a154545cf08,company,female,association partenaire,29/09/2021,2023-07-21 13:03:22.749,VRAI,company
+615414a924bf9a154545ced5,company,female,bouche à oreille,29/09/2021,2022-05-24 12:40:20.861,VRAI,company
+61532bc824bf9a154545ce58,company,female,bouche à oreille,28/09/2021,2022-08-16 07:55:07.499,VRAI,company
+6149973324bf9a154545c916,company,female,autre,21/09/2021,2022-05-24 12:40:20.832,VRAI,company
+614439a624bf9a154545c50b,company,female,autre,17/09/2021,2022-05-24 12:40:20.811,VRAI,company
+6138b79524bf9a154545bbae,company,male,entreprise partenaire,08/09/2021,2022-05-24 12:40:20.774,VRAI,company
+611d124a8ae28b087046ca79,company,female,autre,18/08/2021,2022-05-24 12:40:20.629,VRAI,company
+611a3c898ae28b087046c790,company,male,publicité,16/08/2021,2022-05-24 12:40:20.609,VRAI,company
+60f13e7b66938b559e8435d9,company,female,autre,16/07/2021,2023-08-04 08:38:39.980,VRAI,company
+60f039bb66938b559e84354a,company,female,publicité,15/07/2021,2022-05-24 12:40:20.468,VRAI,company
+60ec1e60012d8a1566b3e814,company,male,autre,12/07/2021,2022-05-24 12:40:20.456,VRAI,company
+60e7fbaa012d8a1566b3e567,company,female,bouche à oreille,09/07/2021,2022-05-24 12:40:20.452,VRAI,company
+60e69ff6012d8a1566b3e470,company,male,bouche à oreille,08/07/2021,2022-05-24 12:40:20.430,VRAI,company
+60d5946c0e3cbe63a9efa717,company,female,bouche à oreille,25/06/2021,2022-08-31 11:27:03.925,VRAI,company
+60b0b8b72fd32b12931546ff,company,male,bouche à oreille,28/05/2021,2022-05-24 12:40:20.223,VRAI,company
+60a7d6cb2fd32b129315431a,company,female,autre,21/05/2021,2022-05-24 12:40:20.210,VRAI,company
+60a4b0922fd32b129315406e,company,female,autre,19/05/2021,2022-05-24 12:40:20.184,VRAI,company
+60a2173b2fd32b1293153ecf,company,male,entreprise partenaire,17/05/2021,2022-05-24 12:40:20.171,VRAI,company
+609e44702fd32b1293153ce6,company,male,autre,14/05/2021,2022-05-24 12:40:20.161,VRAI,company
+609b9fd42fd32b1293153b12,company,female,bouche à oreille,12/05/2021,2022-05-24 12:40:20.156,VRAI,company
+609402df2fd32b1293153601,company,male,autre,06/05/2021,2023-07-20 10:38:20.309,VRAI,company
+6093e78e2fd32b12931535e9,company,female,autre,06/05/2021,2022-05-24 12:40:20.130,,company
+609254a42fd32b129315346a,company,female,autre,05/05/2021,2022-05-24 12:40:20.104,VRAI,company
+609160a12fd32b12931533b4,company,male,autre,04/05/2021,2022-05-24 12:40:20.100,VRAI,company
+6089073f2fd32b1293152cc3,company,male,autre,28/04/2021,2022-05-24 12:40:20.079,VRAI,company
+60799d5c2fd32b1293152129,company,female,autre,16/04/2021,2022-06-22 06:01:01.058,VRAI,company
+60423dba438dca1742a98b41,company,female,bouche à oreille,05/03/2021,2022-05-24 12:40:19.936,VRAI,company
+6037bf7f79bc110f7b6690d7,company,male,autre,25/02/2021,2022-05-24 12:40:19.901,VRAI,company
+6013bb716f28ac167974bc90,company,female,bouche à oreille,29/01/2021,2022-05-24 12:40:19.168,VRAI,company
+6008054a6f28ac167974b959,company,male,autre,20/01/2021,2022-05-24 12:40:19.076,VRAI,company
+5fe20b066f28ac167974aaaa,company,female,bouche à oreille,22/11/2020,2022-05-24 12:40:18.993,VRAI,company
+5fd378f66f28ac167974a53a,company,female,autre,11/11/2020,2022-05-24 12:40:18.969,VRAI,company
+5fd0de0c6f28ac167974a450,company,male,bouche à oreille,09/11/2020,2022-05-24 12:40:18.958,VRAI,company
+5fccda6a6f28ac167974a296,company,male,entreprise partenaire,06/11/2020,2022-05-24 12:40:18.950,VRAI,company
+5fca567c6f28ac167974a162,company,male,autre,04/11/2020,2022-05-24 12:40:18.948,VRAI,company
+5fca4e126f28ac167974a159,company,female,bouche à oreille,04/11/2020,2022-05-24 12:40:18.947,VRAI,company
+5fc8dfa61ccdfa7589ca5e36,company,male,bouche à oreille,03/11/2020,2022-05-24 12:40:18.943,VRAI,company
+5fbe83881ccdfa7589ca58a9,company,female,,25/10/2020,2022-05-24 12:40:18.908,VRAI,company
+5f8962800f36a533fa58dbe6,company,male,bouche à oreille,16/010/2020,2022-05-24 12:40:18.772,VRAI,company
+5f7b1d480f36a533fa58d728,company,female,autre,05/010/2020,2022-05-24 12:40:18.721,VRAI,company
+5f7ae7ab0f36a533fa58d707,company,female,bouche à oreille,05/010/2020,2022-05-24 12:40:18.719,VRAI,company
+5f3fbba4c0f0425b7114e6bc,company,female,,21/08/2020,2022-05-24 12:40:18.601,VRAI,company
+5f153b6de1feb14ac570e8b7,company,female,bouche à oreille,20/07/2020,2023-05-19 14:39:32.024,VRAI,company
+5f05ca89e1feb14ac570dd1d,company,male,,08/07/2020,2022-05-24 12:40:18.510,VRAI,company
+5ef0dcb8e1feb14ac570cd5d,company,female,bouche à oreille,22/06/2020,2022-05-24 12:40:18.478,VRAI,company
+5ee7307be1feb14ac570c616,company,female,recherche web,15/06/2020,2022-05-24 12:40:18.433,VRAI,company
+5ee72033e1feb14ac570c5ee,company,male,bouche à oreille,15/06/2020,2022-05-24 12:40:18.426,VRAI,company
+5ee1e199e1feb14ac570c265,company,male,association partenaire,11/06/2020,2022-05-24 12:40:18.417,VRAI,company
+5ee12ccde1feb14ac570c20e,company,male,,10/06/2020,2022-05-24 12:40:18.415,VRAI,company
+5ec3b406e1feb14ac570ab6d,company,male,autre,19/05/2020,2022-05-24 12:40:18.354,VRAI,company
+5ebad2d2e1feb14ac570a3bb,company,male,autre,12/05/2020,2022-05-24 12:40:18.328,VRAI,company
+5e902f8be1feb14ac5708352,company,female,autre,10/04/2020,2022-05-24 12:40:18.150,VRAI,company
+5e8ed440e1feb14ac5708244,company,male,autre,09/04/2020,2022-05-24 12:40:18.134,VRAI,company
+5e8449dfdb8f357c02646c48,company,male,entreprise partenaire,01/04/2020,2022-05-24 12:40:18.074,VRAI,company
+5e8309fedb8f357c02646b5c,company,male,bouche à oreille,31/03/2020,2022-05-24 12:40:18.066,VRAI,company
+5e8301dedb8f357c02646b53,company,female,entreprise partenaire,31/03/2020,2022-05-24 12:40:18.059,VRAI,company
+5e81f7b2db8f357c02646a82,company,female,,30/03/2020,2022-11-29 18:52:22.787,VRAI,company
+5e7cb17ddb8f357c02646653,company,male,bouche à oreille,26/03/2020,2022-05-24 12:40:17.975,VRAI,company
+5e748f72db8f357c02646068,company,male,bouche à oreille,20/03/2020,2022-05-24 12:40:17.722,VRAI,company
+5e73b7cedb8f357c02645fde,company,male,association partenaire,19/03/2020,2022-05-24 12:40:17.714,VRAI,company
+5e738ca9db8f357c02645fbb,company,male,,19/03/2020,2022-05-24 12:40:17.712,VRAI,company
+5e729731db8f357c02645ef4,company,male,,18/03/2020,2022-05-24 12:40:16.351,VRAI,company
+5e724f7adb8f357c02645ebd,company,male,bouche à oreille,18/03/2020,2022-05-24 12:38:49.676,VRAI,company
+5e6652996a46f84e73af056b,company,male,autre,09/03/2020,2022-05-24 12:38:49.641,VRAI,company
+5e553dac3b7cd27e6512003a,company,male,autre,25/02/2020,2022-05-24 12:38:49.602,VRAI,company
+5e4bf80149436c514146f8d3,company,female,autre,18/02/2020,2022-05-24 12:38:49.578,VRAI,company
+5e4a75c8c4d1d74c8c45880e,company,female,bouche à oreille,17/02/2020,2023-11-10 11:01:31.516,VRAI,company
+5e1c87ec42174218cf933a79,company,male,autre,13/01/2020,2022-05-24 12:38:49.444,VRAI,company
+5e184a9242174218cf933a1b,company,male,autre,10/01/2020,2022-05-24 12:38:49.440,,company
+5e18483642174218cf933a16,company,male,autre,10/01/2020,2022-05-24 12:38:49.433,VRAI,company
+5e0f184942174218cf93394b,company,female,autre,03/01/2020,2023-02-09 14:22:31.488,VRAI,company
+5def5e8abc9b417d5cf6366b,company,male,,10/11/2019,2022-05-24 12:38:49.331,VRAI,company
+5dee9613bc9b417d5cf63658,company,male,,09/11/2019,2022-05-24 12:38:49.329,VRAI,company
+5dee6f06bc9b417d5cf63651,company,female,,09/11/2019,2022-05-24 12:38:49.327,,company
+5de9327d9209a135389958d8,company,male,bouche à oreille,05/11/2019,2022-05-24 12:38:49.311,VRAI,company
+5ddfa13039aed1787a26d9bd,company,male,autre,28/10/2019,2022-05-24 12:38:49.274,,company
+5dd6ab4a7c188c7874a9d51d,company,male,autre,21/10/2019,2022-05-24 12:38:49.238,,company
+5dd56c3754ef065fa88cca6c,company,male,association partenaire,20/10/2019,2022-05-24 12:38:49.228,VRAI,company
+5dd4f5af23ed286749466f67,company,male,association partenaire,20/10/2019,2022-05-24 12:38:49.227,,company
+5dcee80495b17d1ca508282d,company,male,,15/10/2019,2022-05-24 12:38:49.209,VRAI,company
+5dceb12995b17d1ca5082812,company,female,bouche à oreille,15/10/2019,2022-05-24 12:38:49.206,,company
+5dbf2c23f6a7d233588a5ec2,company,female,,03/10/2019,2022-05-24 12:38:49.184,,company
+5d9615ee4472f16796e2afae,company,female,bouche à oreille,03/010/2019,2022-05-24 12:38:49.136,,company
+5d8b8dad4472f16796e2af37,company,male,bouche à oreille,25/09/2019,2022-05-24 12:38:49.115,VRAI,company
+5d7f80d04472f16796e2aeb3,company,female,bouche à oreille,16/09/2019,2023-09-05 15:22:07.551,VRAI,company
+5d70b5a54472f16796e2ae34,company,female,bouche à oreille,05/09/2019,2022-05-24 12:38:49.056,VRAI,company
+5d5d5f9ed157c058dfecd209,company,male,association partenaire,21/08/2019,2022-05-24 12:38:49.022,VRAI,company
+5d3aa0f62ddad254078718e1,company,male,bouche à oreille,26/07/2019,2022-05-24 12:38:48.950,,company
+5d39d2bb2ddad254078718cc,company,male,autre,25/07/2019,2022-05-24 12:38:48.949,VRAI,company
+5d3024672ddad2540787185d,company,female,bouche à oreille,18/07/2019,2022-05-24 12:38:48.939,,company
+5d2d8fb22ddad25407871839,company,female,autre,16/07/2019,2022-05-24 12:38:48.938,,company
+5d1b25362ddad25407871799,company,female,entreprise partenaire,02/07/2019,2022-05-24 12:38:48.921,,company
+5d1480e32ddad2540787176d,company,male,autre,27/06/2019,2022-05-24 12:38:48.917,VRAI,company
+5d025858fd26e33243bc5f96,company,female,,13/06/2019,2022-05-24 12:38:48.895,VRAI,company
+5cf12f8fb0c8341cdddda1b5,company,male,publicité,31/05/2019,2022-05-24 12:38:48.865,,company
+5ce80eb8b0c8341cdddda12f,company,female,autre,24/05/2019,2022-05-24 12:38:48.826,VRAI,company
+5ce6626cb0c8341cdddda0e8,company,female,autre,23/05/2019,2022-05-24 12:38:48.819,VRAI,company
+5cdc098444870d61541d68b3,company,female,autre,15/05/2019,2022-05-24 12:38:48.807,VRAI,company
+5cadfba6d10aab0a4c954e1c,company,male,,10/04/2019,2022-05-24 12:38:48.747,,company
+5c7fdc03dee03a5fd724409c,company,male,autre,06/03/2019,2022-05-24 12:38:48.659,VRAI,company
+5c741ba04d9bb55da5dbd83d,company,male,publicité,25/02/2019,2022-05-24 12:38:48.641,VRAI,company
+5c6d823712b1e349ba4a426e,company,male,publicité,20/02/2019,2022-05-24 12:38:48.626,VRAI,company
+5c6aca86d97df86ce870d4ea,company,male,bouche à oreille,18/02/2019,2022-05-24 12:38:48.617,VRAI,company
+5c65a773d97df86ce870d4d0,company,female,entreprise partenaire,14/02/2019,2022-05-24 12:38:48.602,VRAI,company
+5c5009dec4c39323bc6a57e0,company,male,autre,29/01/2019,2022-05-24 12:38:48.545,,company
+5c3db645c4c39323bc6a5727,company,male,autre,15/01/2019,2022-05-24 12:38:48.500,VRAI,company
+5c3ca786c4c39323bc6a571d,company,female,recherche web,14/01/2019,2022-05-24 12:38:48.497,VRAI,company
+5c18fcb7ee46716e650b3cde,company,female,bouche à oreille,18/11/2018,2022-05-24 12:38:48.486,,company
+5bffb8f68837de33a00d28e2,company,male,association partenaire,29/10/2018,2022-05-24 12:38:48.476,VRAI,company
+5bfd619c8837de33a00d28e0,company,female,autre,27/10/2018,2022-05-24 12:38:48.475,VRAI,company
+5bd850948837de33a00d285b,company,male,bouche à oreille,30/010/2018,2022-05-24 12:38:48.402,VRAI,company
+5bc72b6b8837de33a00d2831,company,male,bouche à oreille,17/010/2018,2022-05-24 12:38:48.368,VRAI,company
+5ba1004a48b26d4df25496f1,company,male,bouche à oreille,18/09/2018,2023-12-05 14:02:22.315,VRAI,company
+5e28729b7ba2f4719ceb487a,company,female,,,2022-05-24 12:38:49.468,VRAI,company
