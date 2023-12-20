@@ -1,8 +1,8 @@
 matplotlib==3.7.1
 numpy==1.23.5
 pandas==1.5.3
-requests==2.31.0  # Assurez-vous que 'requests' est en minuscules
-scikit_learn==1.2.2  # Utilisez un tiret au lieu d'un underscore
+requests==2.31.0  
+scikit_learn==1.2.2  
 seaborn==0.13.0
-st_star_rating==0.0.3  # Utilisez un tiret au lieu d'un underscore
-streamlit_lottie==0.0.3  # Utilisez un tiret au lieu d'un underscore
+st_star_rating==0.0.3  
+streamlit_lottie==0.0.3  
