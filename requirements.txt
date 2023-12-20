@@ -10,5 +10,3 @@ scikit_learn==1.2.2
 seaborn==0.13.0
 st_star_rating==0.0.3
 streamlit_lottie==0.0.3
-~==tplotlib
-~atplotlib==3.7.0
