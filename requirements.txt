@@ -11,4 +11,4 @@ streamlit==1.29.0
 streamlit_extras==0.3.6
 streamlit_folium==0.17.4
 streamlit_lottie==0.0.5
-st_star_rating==0.0.3 
+st-star-rating==0.0.3 
